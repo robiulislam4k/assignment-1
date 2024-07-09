@@ -1,0 +1,44 @@
+.developer{
+    width: 1440px; 
+    height: 700px;
+    background-image: url('/B10A1-Challenge-Begins/assets/Hero-bg.png');
+    margin: 0 auto;
+    border: 4px solid gold;
+    margin-top: 79px;
+}
+.laptop{
+    color: #000072;
+    width: 240px;
+    height: 240px;
+    align-items: center;
+    margin: 0 auto;
+
+}
+.hope{
+    font-weight: extrabold;
+    font-size: 48px;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    
+    
+}
+.last{
+    color: #000072;
+    font-weight: regular;
+    font-size: 16;
+    width: 852px;
+    height: Hug;
+    text-align: center;
+    margin: 0 auto;
+}
+.button{
+    color: #0D1321;
+    font-weight: 600;
+    font-size: 20px;
+    height: 70px;
+    text-align: center;
+    margin-top: 80px;
+    margin: 0 auto;
+
+}
